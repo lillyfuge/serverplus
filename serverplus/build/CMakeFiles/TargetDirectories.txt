@@ -1,0 +1,4 @@
+/home/museage/serverplus/build/CMakeFiles/echoclient.dir
+/home/museage/serverplus/build/CMakeFiles/co_echoserver.dir
+/home/museage/serverplus/build/CMakeFiles/edit_cache.dir
+/home/museage/serverplus/build/CMakeFiles/rebuild_cache.dir
